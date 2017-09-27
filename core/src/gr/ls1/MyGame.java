@@ -1,4 +1,5 @@
 package gr.ls1;
+// JUST TO CHECK GITHUB CHANGES
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
